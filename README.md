@@ -1,5 +1,5 @@
 
-Le test consiste à réaliser une application web en .NET avec une API pour :
+Ce projet consiste à réaliser une application web en .NET avec une API pour :
  - Créer des dépenses
  - Lister les dépenses
 
